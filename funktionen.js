@@ -71,3 +71,5 @@ function dreiTiere2() {
     }
 
 dreiTiere2(); // führt die Funktion aus
+
+
